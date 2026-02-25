@@ -49,21 +49,6 @@
 - Real-World Software Systems  
 - AI-Driven Applications  
 - Engineering Practical Solutions
-
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amrutha-NV&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutha-NV&theme=default&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 🤝 Connect With Me
