@@ -29,7 +29,7 @@
   - LLM-based summarization (LangChain)  
   - Structured outputs (summary, key points, action items)  
 
-🔗 [Live Demo](video-nexus-j9vz.vercel.app/) | [GitHub](https://github.com/Amrutha-NV/Video-Nexus)
+🔗 [Live Demo](https://video-nexus-j9vz.vercel.app/) | [GitHub](https://github.com/Amrutha-NV/Video-Nexus)
 
 ---
 
@@ -41,7 +41,7 @@
   - MongoDB aggregation pipelines  
   - LLM-based insights via OpenRouter  
 
-🔗 [Live Demo](forever-ycvu.vercel.app/) | [GitHub](https://github.com/Amrutha-NV/Forever)
+🔗 [Live Demo](https://forever-ycvu.vercel.app/) | [GitHub](https://github.com/Amrutha-NV/Forever)
 
 ---
 
