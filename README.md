@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Real-World+Systems;Full-Stack+%26+Backend+Focused+Developer;AI-Integrated+Application+Builder" />
 </p>
 
+<h1 align="center">
+  Connect with me !!
+  https://beyond-the-blueprint.vercel.app/
+</h1>
+
 ---
 
 ## 👨‍💻 About Me
