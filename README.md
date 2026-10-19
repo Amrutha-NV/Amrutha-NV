@@ -9,7 +9,7 @@
 
 <h6 align="center">
   Connect with me !!
-  🔗 [Live Demo](https://beyond-the-blueprint.vercel.app/)
+  🔗 [here->](https://beyond-the-blueprint.vercel.app/)
   
 </h6>
 
